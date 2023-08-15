@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "184682599913",
+    "firebase_url": "https://smart-office-392ba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-office-392ba",
+    "storage_bucket": "smart-office-392ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184682599913:android:11c08e5cb3b148a2d0e778",
+        "android_client_info": {
+          "package_name": "com.example.smart_office"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184682599913-uklmjvlsvvdvcikitgdqnjkronckjsnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5VTQVIkMMuyI6fMEGY5xZq-_UGorZjoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184682599913-uklmjvlsvvdvcikitgdqnjkronckjsnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
